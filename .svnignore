@@ -17,3 +17,4 @@ package.json
 phpunit.xml
 tests
 vendor
+.idea
